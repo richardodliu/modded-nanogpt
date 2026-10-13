@@ -1,0 +1,8 @@
+[
+  {
+    "source": "modded-nanogpt/experiments/angular_mup_hyperball_20260917/htheta_optimizer.py",
+    "target": "nanogpt_research/geometry/hyperball_angle.py",
+    "source_sha256": "6a9e4b448e67008f415edc86467ab3b6f95bf8a14a8c5fbedd80fcdb85c49247",
+    "extracted_sha256": "c45dfdb6ac5028457b47febd6374ec747ed71473eeac6b54b78f4ed5146745b9"
+  }
+]
