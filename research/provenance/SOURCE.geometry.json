@@ -1,0 +1,18 @@
+[
+  {
+    "source": "modded-nanogpt/experiments/baselines_30000_matrix_snapshots_20261001/alignment_math.py",
+    "target": "nanogpt_research/geometry/angular.py",
+    "source_sha256": "08e69b301fa9b5edd6e948128c821c975a4bc7fbc0267cd2ce4066a07592a9be",
+    "symbols": null,
+    "extracted_sha256": "a8d99c7c4d8a9f3a0a9f67e463b0c11fa4077c8be765377dfc53f75f7d50ea9a"
+  },
+  {
+    "source": "modded-nanogpt/experiments/baselines_30000_matrix_snapshots_20261001/muon_optimizers.py",
+    "target": "nanogpt_research/geometry/measure.py",
+    "source_sha256": "7393adbb1c2be48e4d1eaca0091e7a388d0979af6941115eddbe3672c13f7eed",
+    "symbols": [
+      "stable_weight_step_angle"
+    ],
+    "extracted_sha256": "68c1bec185a0364071e3c2ff478a04a4d626301cf3a4f0c756af89e2d20cd63b"
+  }
+]
