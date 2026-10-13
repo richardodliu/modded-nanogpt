@@ -1,0 +1,9 @@
+[
+  {
+    "source": "modded-nanogpt/experiments/adamw_adamh_bidirectional_20000_changliu_20260927/optimizers.py",
+    "target": "nanogpt_research/optimizers/adam_alignment.py",
+    "source_sha256": "520ada1464efbe4b371db3543560e76e0122abb6f2bd766cebe30385c3948961",
+    "symbols": null,
+    "extracted_sha256": "699a0cb9daea88f9c54d090136bb4f8bc159c88bb7e1ba4d883885ca10c9d188"
+  }
+]
