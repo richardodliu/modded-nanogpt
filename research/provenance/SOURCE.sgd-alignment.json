@@ -1,0 +1,26 @@
+[
+  {
+    "source": "modded-nanogpt/experiments/rms_sgd_wd0_angle_4000_20261005_repair_v2/angular_legacy.py",
+    "target": "nanogpt_research/geometry/sgd_angular_reference.py",
+    "source_sha256": "72aa5068ab9400d91198b8931b227d25e6c0873f9a3184de158e73eb1725d266",
+    "symbols": null,
+    "extracted_sha256": "f37ce31c77fa4468c4b4290b09ad9155318fccbe900b90f58261492d007bd170"
+  },
+  {
+    "source": "modded-nanogpt/experiments/rms_sgd_wd0_angle_4000_20261005_repair_v2/angular.py",
+    "target": "nanogpt_research/geometry/sgd_angular.py",
+    "source_sha256": "f8b14826d755347ca40324cf4797bc8da6651bdc26daebe1e6cafc2d389f2b78",
+    "symbols": [
+      "audit",
+      "round_once_h_candidate",
+      "solve_update"
+    ],
+    "extracted_sha256": "dabaeed40fccd8dc4a35da00ceb87b27f580e7630fa971ac6acd8b25debaab15"
+  },
+  {
+    "source": "modded-nanogpt/experiments/rms_sgd_wd0_angle_4000_20261005_repair_v2/sgd_optimizers.py",
+    "target": "nanogpt_research/optimizers/sgd_alignment.py",
+    "source_sha256": "c690fbc18dd0117d8d705593acf8dbfec33d4bbc54c129b25f1405a53c96a438",
+    "extracted_sha256": "de841383eadde097e1d997e8aaae2af36b1c127dae9c252d119a0e91faaef677"
+  }
+]
