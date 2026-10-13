@@ -1,0 +1,16 @@
+[
+  {
+    "source": "schedule_free/schedulefree/adamc_schedulefree_plus_paper.py",
+    "target": "nanogpt_research/optimizers/schedulefree_plus.py",
+    "source_sha256": "6bc3c89037d7ae50318c0a314a6f54819a0239a11b05011e40b848ba1984f89a",
+    "symbols": null,
+    "extracted_sha256": "f277eba1818b0ce0f5ee8cf22ca956c77ccf53f4cd518b6ae6c5e4bdf65e13e7"
+  },
+  {
+    "source": "modded-nanogpt/experiments/schedulefree_adamw_adamh_10b_20260805/adaptive_schedule.py",
+    "target": "nanogpt_research/schedules/adaptive.py",
+    "source_sha256": "0cc0380a3a8d0748b137869af66035d0cad1e993c6c7c7472f814f338de6a72c",
+    "symbols": null,
+    "extracted_sha256": "ebdd1c598b6beae262f8b88686bde25763bf6f739c735287f7c4cd98240a9637"
+  }
+]
