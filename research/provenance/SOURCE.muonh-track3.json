@@ -1,0 +1,224 @@
+[
+  {
+    "source": "modded-nanogpt-pr-muonh-power04/records/track_3_optimization/results/20260722_muonh_power04_3150/train_gpt_simple_muonh.py",
+    "target": "nanogpt_research/optimizers/track3/muonh.py",
+    "source_sha256": "1dfba1aacb8b33a939cc5e63043e0a0b72a8a7d54db6a97f62ea28de980d3778",
+    "symbols": [
+      "MuonH",
+      "muon_update",
+      "scale_invariant_update_",
+      "zeropower_via_newtonschulz5"
+    ],
+    "extracted_sha256": "d637f54cf9ed8fa9997ad4ddfa9b3244dda443b33b2505820d62837074060af0"
+  },
+  {
+    "source": "needcopy/track3_optim/repro/muonh_record5.py",
+    "target": "nanogpt_research/optimizers/track3/muonh_record5.py",
+    "source_sha256": "18fc283b242a4f6e165f5a39f303ccefb6f32cecf02050efe74fe986904c3309",
+    "symbols": [
+      "MuonH",
+      "muon_update",
+      "scale_invariant_update_",
+      "zeropower_via_newtonschulz5"
+    ],
+    "extracted_sha256": "209155ea121374aaba68aea6e2a396a1d7426ee861af79c70d62f52aa7401345"
+  },
+  {
+    "source": "needcopy/track3_optim/repro/normuon_record10.py",
+    "target": "nanogpt_research/optimizers/track3/normuon_record10.py",
+    "source_sha256": "8cee05fa22e62ebd28fb13892bf70ab5e477083b9e7ef1d740fa5ebd36fa61e6",
+    "symbols": [
+      "Muon",
+      "NorMuon",
+      "muon_update",
+      "normuon_update",
+      "zeropower_via_newtonschulz5"
+    ],
+    "extracted_sha256": "e14f9748b5d48ca219f0085f5d04a86de40b85e1fb66cebbf7866cedd2ec8ed3"
+  },
+  {
+    "source": "needcopy/track3_optim/repro/normuonh_record8.py",
+    "target": "nanogpt_research/optimizers/track3/normuonh_record8.py",
+    "source_sha256": "4945574dbf3e3c355aa163958a395dda3e835d23c4154c0be9f23381953f3650",
+    "symbols": [
+      "NorMuonH",
+      "normuon_update",
+      "scale_invariant_update_",
+      "zeropower_via_newtonschulz5"
+    ],
+    "extracted_sha256": "f60145a7e3dfe0c3ca76a06c0d4058f0563deaee57d27dc13f519b41d7217165"
+  },
+  {
+    "source": "needcopy/track3_optim/tune/controlled_klsoap_h_baseline.py",
+    "target": "nanogpt_research/optimizers/track3/controlled_klsoap_h_baseline.py",
+    "source_sha256": "a3128b821d31f2ec22151ecd6312523f88a2bb4df35f6c18457cd546126f4d08",
+    "symbols": [
+      "KLSOAPH",
+      "_initial_orthogonal_matrix",
+      "_symmetrize",
+      "_update_eigen_sqrt_inv_",
+      "init_2d_klsoap_state_",
+      "klsoap_direction",
+      "project_from_klsoap_basis",
+      "project_to_klsoap_basis",
+      "refresh_klsoap_basis_",
+      "scale_invariant_update_",
+      "update_2d_klsoap_preconditioner_"
+    ],
+    "extracted_sha256": "b8be80b06524e9db05ade8e9b4ffe17d435dabd4d8df5a143ba9ede39f2af354"
+  },
+  {
+    "source": "needcopy/track3_optim/tune/controlled_klsoap_h_tangent.py",
+    "target": "nanogpt_research/optimizers/track3/controlled_klsoap_h_tangent.py",
+    "source_sha256": "c07699e13ef1c65a02c438ed71ad621ab5dd42acb04bd3093e7cf4c660c923a0",
+    "symbols": [
+      "KLSOAPH",
+      "_initial_orthogonal_matrix",
+      "_symmetrize",
+      "_update_eigen_sqrt_inv_",
+      "init_2d_klsoap_state_",
+      "klsoap_direction",
+      "project_from_klsoap_basis",
+      "project_to_klsoap_basis",
+      "refresh_klsoap_basis_",
+      "scale_invariant_update_",
+      "update_2d_klsoap_preconditioner_"
+    ],
+    "extracted_sha256": "7745a07a55ef6a13e5b950b4bbfb4f28fb28262ab5391611dda752918b86e5ae"
+  },
+  {
+    "source": "needcopy/track3_optim/tune/controlled_muloco_normuonh_baseline.py",
+    "target": "nanogpt_research/optimizers/track3/controlled_muloco_normuonh_baseline.py",
+    "source_sha256": "639a03acbf2bfc91d5ce92d8fb8945ea99fcc1fd6487fc2ce0111b061f487b58",
+    "symbols": [
+      "NesterovOuterOptimizer",
+      "NorMuonH",
+      "normuon_update",
+      "scale_invariant_update_",
+      "zeropower_via_newtonschulz5"
+    ],
+    "extracted_sha256": "b54a39f2e47be95b763aafb28f9cae98c095db64aa07dbaf93c9e7acf8d898eb"
+  },
+  {
+    "source": "needcopy/track3_optim/tune/controlled_muloco_normuonh_tangent.py",
+    "target": "nanogpt_research/optimizers/track3/controlled_muloco_normuonh_tangent.py",
+    "source_sha256": "7cb2488931168f508e9445e45a12cd9da6392710059c84c7ef344f9c31d09e25",
+    "symbols": [
+      "NesterovOuterOptimizer",
+      "NorMuonH",
+      "normuon_update",
+      "scale_invariant_update_",
+      "zeropower_via_newtonschulz5"
+    ],
+    "extracted_sha256": "fdd2ac52abb98494ca7d9d594cde51491f9718f75acb01f8581c92494d77dba4"
+  },
+  {
+    "source": "needcopy/track3_optim/tune/controlled_normuonh_precond_p025.py",
+    "target": "nanogpt_research/optimizers/track3/controlled_normuonh_precond_p025.py",
+    "source_sha256": "f136e169007c699623e8393eb1c14a615fef1fcef43b9ac16577e3272bcdb703",
+    "symbols": [
+      "NorMuonH",
+      "normuon_update",
+      "scale_invariant_update_",
+      "zeropower_via_newtonschulz5"
+    ],
+    "extracted_sha256": "b8d005b76d365eace6f8764b1ddecd32ad40050db38174ffa5d55738291b0ce7"
+  },
+  {
+    "source": "needcopy/track3_optim/tune/controlled_normuonh_precond_p025_tangent.py",
+    "target": "nanogpt_research/optimizers/track3/controlled_normuonh_precond_p025_tangent.py",
+    "source_sha256": "eea69f00bb716d2d91df3e1fbbb0e2d06549e81df2248560c7cec32bf638eb2f",
+    "symbols": [
+      "NorMuonH",
+      "normuon_update",
+      "scale_invariant_update_",
+      "zeropower_via_newtonschulz5"
+    ],
+    "extracted_sha256": "ca71e3eded8dce3d276f3bf8091d93b3779f0a92016e12ab89ba679d8c4601e9"
+  },
+  {
+    "source": "needcopy/track3_optim/tune/controlled_normuonh_riemannian_tangent.py",
+    "target": "nanogpt_research/optimizers/track3/controlled_normuonh_riemannian_tangent.py",
+    "source_sha256": "364d48c5c2a0e7815629a59be4594e432783cecc3e49409d7da6eb1dd2637cf3",
+    "symbols": [
+      "NorMuonH",
+      "normuon_update",
+      "project_tangent",
+      "scale_invariant_update_",
+      "zeropower_via_newtonschulz5"
+    ],
+    "extracted_sha256": "16f987fa3c12ae06dacfd949323f3a2a1df01077d70697117a4adf55de7ad322"
+  },
+  {
+    "source": "needcopy/track3_optim/tune/controlled_normuonh_tangent.py",
+    "target": "nanogpt_research/optimizers/track3/controlled_normuonh_tangent.py",
+    "source_sha256": "df77d5570a83d0be4ba2da44bd96618d002b03f3fddd3447e3d23a440b9064f4",
+    "symbols": [
+      "NorMuonH",
+      "normuon_update",
+      "scale_invariant_update_",
+      "zeropower_via_newtonschulz5"
+    ],
+    "extracted_sha256": "f81ecc91ce6c9ab7ad56e56a60184b77962617fd1829c7415d395c98a89a3a86"
+  },
+  {
+    "source": "needcopy/track3_optim/tune/controlled_normuonh_tangent_beta2_90.py",
+    "target": "nanogpt_research/optimizers/track3/controlled_normuonh_tangent_beta2_90.py",
+    "source_sha256": "800e42aec62f375f0c661749d435d61e02711557ef4febbde30e735f138f30fd",
+    "symbols": [
+      "NorMuonH",
+      "normuon_update",
+      "scale_invariant_update_",
+      "zeropower_via_newtonschulz5"
+    ],
+    "extracted_sha256": "1dc0df72e546b8fa55a841528720549ae78366912a127a5efbadcd9e1da3a1ee"
+  },
+  {
+    "source": "needcopy/track3_optim/tune/controlled_normuonh_tangent_beta2_99.py",
+    "target": "nanogpt_research/optimizers/track3/controlled_normuonh_tangent_beta2_99.py",
+    "source_sha256": "d7919f01611e1e6ced4175c261d3890ca518729bad8a5b7ae453b513006529e7",
+    "symbols": [
+      "NorMuonH",
+      "normuon_update",
+      "scale_invariant_update_",
+      "zeropower_via_newtonschulz5"
+    ],
+    "extracted_sha256": "536007bf6a632b3cd4d1764c501908f24014b8a63960885668cce0ec07afba9f"
+  },
+  {
+    "source": "needcopy/track3_optim/tune/normuonh_aux_cd_06_beta2_90.py",
+    "target": "nanogpt_research/optimizers/track3/normuonh_aux_cd_06_beta2_90.py",
+    "source_sha256": "f6754cfb141a9b6eaab807bf0853ab19f6463a07ea1ed1b9b1f83b096f336469",
+    "symbols": [
+      "NorMuonH",
+      "normuon_update",
+      "scale_invariant_update_",
+      "zeropower_via_newtonschulz5"
+    ],
+    "extracted_sha256": "2b255505e1dd4bccd79fe985a654b91129672e303d9210504e2f65466b4a3888"
+  },
+  {
+    "source": "needcopy/track3_optim/tune/normuonh_aux_cd_06_beta2_99.py",
+    "target": "nanogpt_research/optimizers/track3/normuonh_aux_cd_06_beta2_99.py",
+    "source_sha256": "8a9795d8022f65c4a50c9318f92c6c698e97cc63908a5747583b13c5ccfb066c",
+    "symbols": [
+      "NorMuonH",
+      "normuon_update",
+      "scale_invariant_update_",
+      "zeropower_via_newtonschulz5"
+    ],
+    "extracted_sha256": "69b4616c8f7c228a5d7227dd987127394a005064cbf5e1d5dd998d56d9411453"
+  },
+  {
+    "source": "needcopy/track3_optim/tune/normuonh_mu_097.py",
+    "target": "nanogpt_research/optimizers/track3/normuonh_mu_097.py",
+    "source_sha256": "76267a7912fd4ef2aada79750f3d05fdc237a14a3561a1371f3a5c6d875335cd",
+    "symbols": [
+      "NorMuonH",
+      "normuon_update",
+      "scale_invariant_update_",
+      "zeropower_via_newtonschulz5"
+    ],
+    "extracted_sha256": "6fafe912cf104ae9368832bff5c63d783c9065d9783c66edb23620ab91a70826"
+  }
+]

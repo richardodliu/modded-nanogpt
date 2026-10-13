@@ -1,0 +1,215 @@
+[
+  {
+    "source": "modded-nanogpt-pr-muonh-power04/records/track_3_optimization/results/20260722_muonh_power04_3150/train_gpt_simple_muonh.py",
+    "module": "nanogpt_research.optimizers.track3.muonh",
+    "classes": [
+      "MuonH"
+    ]
+  },
+  {
+    "source": "needcopy/track3_optim/repro/muonh_record5.py",
+    "module": "nanogpt_research.optimizers.track3.muonh_record5",
+    "classes": [
+      "MuonH"
+    ]
+  },
+  {
+    "source": "needcopy/track3_optim/repro/normuon_record10.py",
+    "module": "nanogpt_research.optimizers.track3.normuon_record10",
+    "classes": [
+      "Muon",
+      "NorMuon"
+    ]
+  },
+  {
+    "source": "needcopy/track3_optim/repro/normuonh_record8.py",
+    "module": "nanogpt_research.optimizers.track3.normuonh_record8",
+    "classes": [
+      "NorMuonH"
+    ]
+  },
+  {
+    "source": "needcopy/track3_optim/tune/controlled_klsoap_h_baseline.py",
+    "module": "nanogpt_research.optimizers.track3.controlled_klsoap_h_baseline",
+    "classes": [
+      "KLSOAPH"
+    ]
+  },
+  {
+    "source": "needcopy/track3_optim/tune/controlled_klsoap_h_tangent.py",
+    "module": "nanogpt_research.optimizers.track3.controlled_klsoap_h_tangent",
+    "classes": [
+      "KLSOAPH"
+    ]
+  },
+  {
+    "source": "needcopy/track3_optim/tune/controlled_muloco_normuonh_baseline.py",
+    "module": "nanogpt_research.optimizers.track3.controlled_muloco_normuonh_baseline",
+    "classes": [
+      "NorMuonH",
+      "NesterovOuterOptimizer"
+    ]
+  },
+  {
+    "source": "needcopy/track3_optim/tune/controlled_muloco_normuonh_tangent.py",
+    "module": "nanogpt_research.optimizers.track3.controlled_muloco_normuonh_tangent",
+    "classes": [
+      "NorMuonH",
+      "NesterovOuterOptimizer"
+    ]
+  },
+  {
+    "source": "needcopy/track3_optim/tune/controlled_normuonh_aux_cd_06.py",
+    "module": "nanogpt_research.optimizers.track3.normuonh_record8",
+    "classes": [
+      "NorMuonH"
+    ]
+  },
+  {
+    "source": "needcopy/track3_optim/tune/controlled_normuonh_aux_cd_08.py",
+    "module": "nanogpt_research.optimizers.track3.normuonh_record8",
+    "classes": [
+      "NorMuonH"
+    ]
+  },
+  {
+    "source": "needcopy/track3_optim/tune/controlled_normuonh_aux_cd_08_floor_20.py",
+    "module": "nanogpt_research.optimizers.track3.normuonh_record8",
+    "classes": [
+      "NorMuonH"
+    ]
+  },
+  {
+    "source": "needcopy/track3_optim/tune/controlled_normuonh_baseline.py",
+    "module": "nanogpt_research.optimizers.track3.normuonh_record8",
+    "classes": [
+      "NorMuonH"
+    ]
+  },
+  {
+    "source": "needcopy/track3_optim/tune/controlled_normuonh_precond_p025.py",
+    "module": "nanogpt_research.optimizers.track3.controlled_normuonh_precond_p025",
+    "classes": [
+      "NorMuonH"
+    ]
+  },
+  {
+    "source": "needcopy/track3_optim/tune/controlled_normuonh_precond_p025_tangent.py",
+    "module": "nanogpt_research.optimizers.track3.controlled_normuonh_precond_p025_tangent",
+    "classes": [
+      "NorMuonH"
+    ]
+  },
+  {
+    "source": "needcopy/track3_optim/tune/controlled_normuonh_riemannian_tangent.py",
+    "module": "nanogpt_research.optimizers.track3.controlled_normuonh_riemannian_tangent",
+    "classes": [
+      "NorMuonH"
+    ]
+  },
+  {
+    "source": "needcopy/track3_optim/tune/controlled_normuonh_tangent.py",
+    "module": "nanogpt_research.optimizers.track3.controlled_normuonh_tangent",
+    "classes": [
+      "NorMuonH"
+    ]
+  },
+  {
+    "source": "needcopy/track3_optim/tune/controlled_normuonh_tangent_aux_cd_06.py",
+    "module": "nanogpt_research.optimizers.track3.controlled_normuonh_tangent",
+    "classes": [
+      "NorMuonH"
+    ]
+  },
+  {
+    "source": "needcopy/track3_optim/tune/controlled_normuonh_tangent_beta2_90.py",
+    "module": "nanogpt_research.optimizers.track3.controlled_normuonh_tangent_beta2_90",
+    "classes": [
+      "NorMuonH"
+    ]
+  },
+  {
+    "source": "needcopy/track3_optim/tune/controlled_normuonh_tangent_beta2_99.py",
+    "module": "nanogpt_research.optimizers.track3.controlled_normuonh_tangent_beta2_99",
+    "classes": [
+      "NorMuonH"
+    ]
+  },
+  {
+    "source": "needcopy/track3_optim/tune/muonh_qkv_lr_022.py",
+    "module": "nanogpt_research.optimizers.track3.muonh_record5",
+    "classes": [
+      "MuonH"
+    ]
+  },
+  {
+    "source": "needcopy/track3_optim/tune/normuonh_aux_cd_06.py",
+    "module": "nanogpt_research.optimizers.track3.normuonh_record8",
+    "classes": [
+      "NorMuonH"
+    ]
+  },
+  {
+    "source": "needcopy/track3_optim/tune/normuonh_aux_cd_06_beta2_90.py",
+    "module": "nanogpt_research.optimizers.track3.normuonh_aux_cd_06_beta2_90",
+    "classes": [
+      "NorMuonH"
+    ]
+  },
+  {
+    "source": "needcopy/track3_optim/tune/normuonh_aux_cd_06_beta2_99.py",
+    "module": "nanogpt_research.optimizers.track3.normuonh_aux_cd_06_beta2_99",
+    "classes": [
+      "NorMuonH"
+    ]
+  },
+  {
+    "source": "needcopy/track3_optim/tune/normuonh_aux_cd_06_lr_020.py",
+    "module": "nanogpt_research.optimizers.track3.normuonh_record8",
+    "classes": [
+      "NorMuonH"
+    ]
+  },
+  {
+    "source": "needcopy/track3_optim/tune/normuonh_aux_cd_06_steps_3225.py",
+    "module": "nanogpt_research.optimizers.track3.normuonh_record8",
+    "classes": [
+      "NorMuonH"
+    ]
+  },
+  {
+    "source": "needcopy/track3_optim/tune/normuonh_aux_cd_08.py",
+    "module": "nanogpt_research.optimizers.track3.normuonh_record8",
+    "classes": [
+      "NorMuonH"
+    ]
+  },
+  {
+    "source": "needcopy/track3_optim/tune/normuonh_beta2_99.py",
+    "module": "nanogpt_research.optimizers.track3.normuonh_aux_cd_06_beta2_99",
+    "classes": [
+      "NorMuonH"
+    ]
+  },
+  {
+    "source": "needcopy/track3_optim/tune/normuonh_lr_025.py",
+    "module": "nanogpt_research.optimizers.track3.normuonh_record8",
+    "classes": [
+      "NorMuonH"
+    ]
+  },
+  {
+    "source": "needcopy/track3_optim/tune/normuonh_mu_097.py",
+    "module": "nanogpt_research.optimizers.track3.normuonh_mu_097",
+    "classes": [
+      "NorMuonH"
+    ]
+  },
+  {
+    "source": "needcopy/track3_optim/tune/normuonh_qkv_lr_022.py",
+    "module": "nanogpt_research.optimizers.track3.normuonh_record8",
+    "classes": [
+      "NorMuonH"
+    ]
+  }
+]
