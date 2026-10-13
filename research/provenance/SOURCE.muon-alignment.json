@@ -1,0 +1,9 @@
+[
+  {
+    "source": "modded-nanogpt/experiments/baselines_30000_matrix_snapshots_20261001/muon_optimizers.py",
+    "target": "nanogpt_research/optimizers/muon_alignment.py",
+    "source_sha256": "7393adbb1c2be48e4d1eaca0091e7a388d0979af6941115eddbe3672c13f7eed",
+    "symbols": null,
+    "extracted_sha256": "d054cf0d1ae259d15f6270026ce2b2ed30b84b7f708dee3d67356a01cc4447e4"
+  }
+]
