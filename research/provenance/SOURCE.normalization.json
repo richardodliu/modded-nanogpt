@@ -1,0 +1,14 @@
+[
+  {
+    "source": "modded-nanogpt/experiments/independent_norm_h_4000_20261004/normalization.py",
+    "target": "nanogpt_research/normalization.py",
+    "source_sha256": "cf615c2ff9f7b37190e821d603a36a4613ad12c011ec420c64668d7a92eff4f4",
+    "extracted_sha256": "6ae55abcd992e6d2362874c030389538b724a508281c75a8b7a3373f15190873"
+  },
+  {
+    "source": "modded-nanogpt/experiments/independent_norm_h_4000_20261004/kernels.py",
+    "target": "nanogpt_research/normalization_kernels.py",
+    "source_sha256": "477f7b5b2fddfa4c53c22d7115d51f4711537c3f2428feed7b8a9603bfc505c9",
+    "extracted_sha256": "1673c3acbe30f2ae3628cbbd7cbb4320612f61e1b9da5774f865089192a1169a"
+  }
+]
