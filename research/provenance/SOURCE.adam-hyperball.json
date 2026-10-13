@@ -1,0 +1,9 @@
+[
+  {
+    "source": "modded-nanogpt/experiments/schedulefree_adamw_adamh_10b_20260805/optimizers.py",
+    "target": "nanogpt_research/optimizers/adamh.py",
+    "source_sha256": "6d7a38d0e38a7dd65760761bf86b2d9b5a25900edaa26a21b11d34af666a17a3",
+    "symbols": null,
+    "extracted_sha256": "a4bff24c3d01eb3845ed2a3908677a60258bfff8308812998e9b994cf542b674"
+  }
+]
