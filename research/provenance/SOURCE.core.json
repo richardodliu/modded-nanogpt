@@ -1,0 +1,28 @@
+[
+  {
+    "source": "schedulefree_adamw_adamh_10b_20260805/model.py",
+    "target": "nanogpt_research/model.py",
+    "source_sha256": "9f62a56839077a9162185de8a5474bb6d8cd6708fb466dbd6d462fa3d0eea368",
+    "extracted_sha256": "fad117bf4d0899bc1863e36e2b1f9d4d1a5ec3c0b4445010555aa9d49b8cbae5"
+  },
+  {
+    "source": "schedulefree_adamw_adamh_10b_20260805/data_stream.py",
+    "target": "nanogpt_research/data.py",
+    "source_sha256": "e92d641d735b0ee1d86d89d68762c2031a06fc033647051a8736f82fc55d6cc0",
+    "extracted_sha256": "1df0ba4480ae379663340a8f4faa26f66437dbcb05d2a07c1db6284500e5fe9b"
+  },
+  {
+    "source": "hyperball_tb_compare/tb_metrics.py",
+    "target": "nanogpt_research/losses.py",
+    "symbol": "cross_entropy_with_centered_logit_regularization",
+    "source_sha256": "63ee99fa5b3760cceb490fac067fd01e1dcda79d24ed0c730b8a36b73ef80552",
+    "extracted_sha256": "1dab471ca551c0832d7f523b837a2ea51fa6b9c02a9a24da872eda81ede52caf"
+  },
+  {
+    "source": "hyperball_tb_compare/tb_metrics.py",
+    "target": "nanogpt_research/initialization.py",
+    "symbol": "initialize_shared_nonzero_parameters",
+    "source_sha256": "63ee99fa5b3760cceb490fac067fd01e1dcda79d24ed0c730b8a36b73ef80552",
+    "extracted_sha256": "bed16bed403960ed334aca14b9327c70804a5f8d64448cbe56d2230408b8528d"
+  }
+]
