@@ -1,0 +1,14 @@
+[
+  {
+    "source": "modded-nanogpt/experiments/rmnp_no_wd_stage_geometry_15000_20260727/rmnp_math.py",
+    "target": "nanogpt_research/optimizers/rmnp_math.py",
+    "source_sha256": "cbcadf0cb93617ac7e8079f23ff2bedce898cc1a9d317b1bd41cad0e572e8027",
+    "extracted_sha256": "35a92b30f5506c0e48a6c7f624967108f62da886915a20616f3cafb630f8f220"
+  },
+  {
+    "source": "modded-nanogpt/experiments/rmnp_no_wd_stage_geometry_15000_20260727/train_rmnp.py",
+    "target": "nanogpt_research/optimizers/rmnp.py",
+    "source_sha256": "00e2001af59fd655bb73752b854fb170c2e0cb3163e57bcc3a43de4d38cdfc48",
+    "extracted_sha256": "5ee5c8e33986452991cc184a6d6d2b8a31a7080c425544f7201c384e0dc463ac"
+  }
+]
